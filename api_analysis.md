@@ -7,12 +7,13 @@
 **Information to Capture:**
 -   **Request URL:** `https://www.saucedemo.com/`
 -   **Request Method:** `POST`
--   **Request Payload (Body):** What data is sent to the server?
-{  
-  "username": "standard_user",
-  "password": "secret_sauce"
+-   **Request Payload (Body):** What data is sent to the server?  
+```json
+{   
+  "username": "standard_user",  
+  "password": "secret_sauce"  
 }
-
+```
 -   **Response Status Code (for a successful login):** `200 OK`
 -   **Response Body (for a successful login):**
   HTML content of the Products page, Includes:  
