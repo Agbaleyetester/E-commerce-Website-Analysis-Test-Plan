@@ -39,10 +39,10 @@
     4.  User clicks the shopping cart icon.
     5.  User click on "Remove".
     6.  "Sauce Labs Backpack" is successfully remove from Cart.
- 
--   **Workflow:** Successful Purchase
+
+-   **Workflow:** View Product
 -   **Steps:**
     1.  User navigates to the login page.
     2.  User enters valid credentials ("standard_user", "secret_sauce") and clicks "Login".
-    3.  User adds the "Sauce Labs Backpack" to the cart.
-    4.  User clicks the shopping cart icon.
+    3.  Click on "Sauce Labs Backpack" to view product .
+    4.  Product is Name, description, price, picture and Add to cart is been displayed.
